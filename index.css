@@ -50,7 +50,7 @@ h6 {
   line-height: 1.25;
   margin-bottom: 15px;
   transition: font-size 0.25s ease;
-  text-transform: uppercase;
+  text-transform: lowecase;
 }
 
 h1 {
